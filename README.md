@@ -1,4 +1,4 @@
-# Welocme to Master Bridge!
+# Welcome to Master Bridge!
 Master Bridge is formed to provide technical counseling to aspiring students planning for education abroad and help them with:
 -   Technical Skill Development,
 -   Online Profile Building,
